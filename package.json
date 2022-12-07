@@ -11,10 +11,10 @@
     "postgit": "git push --all"
   },
   "dependencies": {
-    "expo": "~47.0.8",
-    "expo-status-bar": "~1.4.2",
-    "react": "18.1.0",
-    "react-native": "0.70.5"
+    "expo": "^46.0.13",
+    "expo-status-bar": "^1.4.0",
+    "react": "^18.0.0",
+    "react-native": "^0.69.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
